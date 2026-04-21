@@ -3,7 +3,9 @@
 **Quantitative Markets · Front-Office Tools · Derivatives · Risk & Portfolio Analytics**
 
 MSc 268 — Investment Banking & Financial Markets @Université Paris-Dauphine PSL 
+
 BSc of Physics @Université Paris-Saclay
+
 Apprenticeship in a front-office / CIO Office environment focused on listed markets  
 
 I build desk-oriented tools for **valuation, risk monitoring, derivatives analytics, portfolio construction and market decision support**.
