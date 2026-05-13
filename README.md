@@ -153,7 +153,7 @@ I am especially interested in environments combining:
 - front-office automation
 - systematic or semi-systematic decision support
 
-Typical roles of interest include **Trading, Sales, Structuring, QIS and desk-oriented market roles**.
+Typical roles of interest include **Trading, Structuring, QIS and desk-oriented market roles**.
 
 ---
 
