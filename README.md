@@ -2,7 +2,7 @@
 
 Quantitative Trading - Derivatives - Statistical Modelling - Python / C++
 
-Incoming Apprentice, Macro Rates Derivatives & FX Trading - HSBC (Sep. 2026)
+Incoming Apprentice, BA Macro Rates Derivatives & FX Trading - HSBC (Sep. 2026)
 Seeking: Quantitative Trading / Market Making, Graduate 2027
 
 ---
